@@ -119,7 +119,7 @@ The application is fully responsive with breakpoints for:
 
 ## 🚀 Deployment
 
-### Vercel (Recommended)
+### Vercel     (https://overlang-ai.vercel.app)
 ```bash
 npm run build
 # Deploy to Vercel
