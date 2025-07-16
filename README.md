@@ -1,6 +1,6 @@
 # Quiz Wise Insight - Next.js Health Assessment Platform
 
-A modern, AI-powered health assessment platform built with Next.js 14, featuring an interactive chat-based quiz system for personalized health recommendations.
+A modern, AI-powered health assessment platform built with Next.js 14.2.0, featuring an interactive chat-based quiz system for personalized health recommendations.
 
 ## 🚀 Features
 
