@@ -14,7 +14,7 @@ A modern, AI-powered health assessment platform built with Next.js 14, featuring
 
 ## 🛠 Tech Stack
 
-- **Framework**: Next.js 14+ (App Router)
+- **Framework**: Next.js 14.2.0 (App Router)
 - **Styling**: Tailwind CSS
 - **UI Components**: shadcn/ui
 - **Language**: TypeScript
